@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: #66299f;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6%;
+  font-size: 4rem;
+}
+#game {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+h2 {
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 3rem;
+}
+#i11,
+#i12,
+#i13,
+#i14,
+#i15,
+#i16 {
+  display: none;
+  margin-right: 50px;
+}
+#i21,
+#i22,
+#i23,
+#i24,
+#i25,
+#i26 {
+  display: none;
+}
